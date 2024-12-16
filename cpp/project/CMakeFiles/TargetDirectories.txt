@@ -1,0 +1,4 @@
+/home/rafael/sinau/OpenCV-for-Beginner/project/CMakeFiles/virtual_painter.dir
+/home/rafael/sinau/OpenCV-for-Beginner/project/CMakeFiles/color_picker.dir
+/home/rafael/sinau/OpenCV-for-Beginner/project/CMakeFiles/edit_cache.dir
+/home/rafael/sinau/OpenCV-for-Beginner/project/CMakeFiles/rebuild_cache.dir

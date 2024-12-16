@@ -1,0 +1,3 @@
+/home/rafael/sinau/OpenCV-for-Beginner/ch-8/CMakeFiles/ch-8.dir
+/home/rafael/sinau/OpenCV-for-Beginner/ch-8/CMakeFiles/edit_cache.dir
+/home/rafael/sinau/OpenCV-for-Beginner/ch-8/CMakeFiles/rebuild_cache.dir
